@@ -27,6 +27,10 @@ Using:
 ├── .dockerignore
 ```
 
+## Development
+
+<details>
+
 ## Installation
 
 ```bash
@@ -57,3 +61,5 @@ poetry run poe format-code
 poetry shell
 pre-commit install
 ```
+
+</details>
